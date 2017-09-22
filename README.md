@@ -1,6 +1,6 @@
 # Memory_Game
 
-#### It's a simple memory based tile game in which we flip tiles randomly and match all the pairs simulatenously.
+#### It's a simple memory based tile game in which tiles are flipped by the randomly by the player and matched with it's pair tile.
 
 ## Features
 1. Displays a countup timer.
